@@ -106,8 +106,6 @@ License
 Tharun Kumar R G
 
 GitHub Repository:
-Vector_DataBase Repository
+Vector_DataBase: https://github.com/tharunkumarsurya/Vector_DataBase.git
 
 
-Your repository: :contentReference[oaicite:2]{index=2}
-::contentReference[oaicite:3]{index=3}
